@@ -17,7 +17,7 @@ An open-source **Modbus Communication Tool**  built with Python + PySide6.
 - pymodbus
 
 ## Demo
-![UI Screenshot](docs/architecture.png)
+![UI Screenshot](docs/testing_on_scanner.png)
 
 ## Quick Start
 ```bash
